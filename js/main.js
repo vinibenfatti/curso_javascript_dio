@@ -1,7 +1,25 @@
 
+/*function botao(){
+    alert("Obrigado por clicar");
+}
 
+function redirecionar(){
+    window.open("google.com");
+    window.location.href = "google.com";
+}
 
+function trocar(elemento){
+    elemento.innerHTML="Obrigado";
+    //document.getElementById("mousemove").innerHTML="Obrigado";
+    //alert("Trocar texto");
+}
 
+function voltar(elemento){
+
+    //document.getElementById("mousemove").innerHTML="Passe o mouse aqui";
+}
+
+*/
 
 /*function soma(n1,n2){
     return n1+n2;
